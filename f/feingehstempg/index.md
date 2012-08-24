@@ -10,8 +10,7 @@ slug: feingehstempg
 
 # Bekanntmachung betreffend die Bestimmung der Form des Stempelzeichens zur Angabe des Feingehalts auf goldenen und silbernen Geräten (FeinGehStempG)
 
-Ausfertigungsdatum
-:   1886-01-07
+Ausfertigungsdatum :   1886-01-07
 
 Fundstelle
 :   RGBl: 1886, 1
